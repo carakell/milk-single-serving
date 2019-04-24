@@ -7,7 +7,7 @@
 }
 
 #almond {
-  background-color: #FBEAC2;
+  background-color: #F8D3C7;
 }
 
 #coconut {
@@ -27,10 +27,14 @@
 }
 
 #cashew {
-  background-color: #F8D3C7;
+  background-color: #FBEAC2;
 }
 
-h2{
+#dairyfree {
+  background-color: #0000
+}
+
+p{
   font-family: 'Quicksand', sans-serif;
   color: #9B7349
 }
