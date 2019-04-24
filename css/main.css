@@ -1,0 +1,36 @@
+.container-fluid {
+  background-color: #FFFFFF;
+}
+
+.column {
+  padding: 3em;
+}
+
+#almond {
+  background-color: #FBEAC2;
+}
+
+#coconut {
+  background-color: #DAF0F4;
+}
+
+#hemp {
+  background-color: #CFE7C9;
+}
+
+#hazelnut {
+  background-color: #FDECE6;
+}
+
+#oats {
+  background-color: #F7B9A9;
+}
+
+#cashew {
+  background-color: #F8D3C7;
+}
+
+h2{
+  font-family: 'Quicksand', sans-serif;
+  color: #9B7349
+}
